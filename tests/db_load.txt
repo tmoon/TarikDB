@@ -1,0 +1,6 @@
+create(a1,"unsorted")
+create(a2,"unsorted")
+load("db1.csv")
+create(b1,"unsorted")
+create(b2,"unsorted")
+load("db2.csv")
